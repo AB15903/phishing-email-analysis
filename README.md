@@ -1,4 +1,3 @@
-
 # 🛡️ Phishing Email Analysis Project
 
 Hi! This is a small project where I analyzed a suspicious email to identify phishing indicators. The goal is to understand how phishing works and what signs to look out for.
